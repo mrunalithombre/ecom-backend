@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "productName": "oiuytre",
+      "productPrice": "asas",
+      "image": "https://images.unsplash.com/photo-1696781365046-39779e1f0461?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      "stock": "dfghjk",
+      "isAvailabel": "not",
+      "id": 1
+    }
+  ]
+}
